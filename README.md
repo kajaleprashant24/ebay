@@ -1,4 +1,4 @@
-# Ebay Search Demo Project
+# Ebay Search Demo Project with wdio
 
 
 > **Note:**
